@@ -1,6 +1,6 @@
 <h1 align="center">
   <img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" />
-  Hi there, I'm Dineshkumar V
+  Hi there, I'm Lalitkumar S
   <img src="https://media.tenor.com/LX8A69niHS8AAAAi/thumbs-up-emoji-emoji.gif" width="40" height="40" />
 </h1>
 
